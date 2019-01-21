@@ -1,4 +1,4 @@
-class RestiMac < Formula
+class Restimac < Formula
   desc "Triggers a restic backup on your mac when you're connected to a specific Wireless Network. "
   homepage "https://github.com/HazCod/restimac.sh"
   url "https://codeload.github.com/HazCod/restimac.sh/zip/1.0"
