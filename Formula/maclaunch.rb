@@ -1,9 +1,9 @@
 class Maclaunch < Formula
   desc "Manage your macOS startup items."
   homepage "https://github.com/hazcod/maclaunch"
-  url "https://codeload.github.com/HazCod/maclaunch/zip/0.9"
-  version "0.9"
-  sha256 "daaac1aa3f95b5f4f354b626a89fed7da31e9af6d175bc89f6afd8864580f954"
+  url "https://codeload.github.com/HazCod/maclaunch/zip/1.0"
+  version "1.0"
+  sha256 "870174b841f215f62a7e07bab6c56ed6e6c0ff02a094f99f86483b33ee78fb9a"
 
   def install
     bin.install "maclaunch.sh" => "maclaunch"
