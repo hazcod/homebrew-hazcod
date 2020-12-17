@@ -1,4 +1,4 @@
-class EnpassCLI < Formula
+class Enpasscli < Formula
   desc "Commandline client for the Enpass 6 password manager."
   homepage "https://github.com/hazcod/enpass-cli"
   url "https://github.com/hazcod/enpass-cli/releases/download/v1.0/enpass-cli_1.0_darwin_amd64.tar.gz"
