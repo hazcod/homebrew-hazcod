@@ -12,6 +12,11 @@ Then install this tap using `brew tap hazcod/homebrew-hazcod`. You can now `brew
 Manage your macOS startup items. ([Github](https://github.com/hazcod/maclaunch))
 > `brew install maclaunch`
 
+#### macbac
+Manage your macOS snapshots. ([Github](https://github.com/hazcod/macbac))
+> `brew install macbac`
+
+
 #### backwi
 Triggers a TimeMachine backup when connected to a specific WiFi network. ([Github](https://github.com/hazcod/backwi.sh))
 > `brew install backwi`
