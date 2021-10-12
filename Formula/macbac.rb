@@ -2,8 +2,8 @@ class Macbac < Formula
   desc "Manage your macOS snapshots."
   homepage "https://github.com/hazcod/macbac"
   url "https://codeload.github.com/hazcod/macbac/zip/1.1"
-  version "1.1"
-  sha256 "d84147df6e9b43a3d3408c10c303a9f36baf0f491f12691b3c9604a8335be6ca"
+  version "1.2"
+  sha256 "f5ace4071aeb39397145d28e6221c193d62e048361a9a2b06b81b96703bf254a"
 
   def install
     bin.install "macbac.sh" => "macbac"
