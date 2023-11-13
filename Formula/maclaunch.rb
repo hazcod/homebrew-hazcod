@@ -1,8 +1,8 @@
 class Maclaunch < Formula
   desc "Manage your macOS startup items"
   homepage "https://github.com/hazcod/maclaunch"
-  url "https://github.com/hazcod/maclaunch/archive/2.3.1.tar.gz"
-  sha256 "abba1f7cffd7f694b23745f6ccc137b17b6c9ea38fe2fbb55a8bd9646f6ae1a1"
+  url "https://github.com/hazcod/maclaunch/archive/2.5.tar.gz"
+  sha256 "b2d5f8669cd2c09096759f6472db4c8c50a3abf90581e6d629f7c5128bbfa88c"
   license "MIT"
 
   def install
